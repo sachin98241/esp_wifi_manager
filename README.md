@@ -21,8 +21,9 @@ mip.install("github:sachin98241/ESP_WiFi_Manager")
 ```
 
 ### 2. Method 2: As a Python Module (via PyPI)
+```text
 pip install esp-wifi-manager
-
+```
 ### 3. Method 3: Manual Installation
 1. Flash MicroPython to your ESP32 
 2. Copy `esp32_config.py` to your ESP32
