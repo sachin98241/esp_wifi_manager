@@ -96,6 +96,7 @@ Start the WiFi manager. This method:
 
 ## System Flow:
 
+```text
 Power ON
 |
 ▼
@@ -119,6 +120,7 @@ User Inputs WiFi
 |
 ▼
 Try Connect Again
+```
 
 ## Modules & Libraries Used
 
