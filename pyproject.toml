@@ -1,0 +1,11 @@
+[project]
+name = "esp-wifi-manager"
+version = "0.1.0"
+description = "ESP32 WiFi Manager using MicroPython"
+authors = [{name="Sachin", email="sachingurjar98241@gmail.com"}]
+readme = "README.md"
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
